@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tlnymtlu@gmail.com**
 
-- 📄 Know about my experiences (Google Drive)[https://drive.google.com/file/d/13WCWVw1Dyyj7sizyFqbZsB2iAap-iGCb/view?usp=sharing](https://drive.google.com/file/d/13WCWVw1Dyyj7sizyFqbZsB2iAap-iGCb/view?usp=sharing)
+- 📄 Know about my experiences [Google Drive](https://drive.google.com/file/d/13WCWVw1Dyyj7sizyFqbZsB2iAap-iGCb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
