@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, It's me Mario</h1>
+<h1 align="center">Hi there👋, It's me Tolunay</h1>
 <h3 align="center">Hi I'm Tolunay and I'm trying to be Computer Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolunaym&label=Profile%20views&color=0e75b6&style=flat" alt="tolunaym" /> </p>
