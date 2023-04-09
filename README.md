@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolunaym&label=Profile%20views&color=0e75b6&style=flat" alt="tolunaym" /> </p>
 
-- 🔭 I’m currently working on **ML && MS**
+- 🔭 I’m currently working on **Java Spring**
 
-- 🌱 I’m currently learning **Javascript, Node.js & Typescript**
+- 🌱 I’m currently learning **Node.js & Typescript**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **tlnymtlu@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nhOfbh8KRQZPRKL4Di55fL8BjTxfK_Uo/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1O8BRev2c7IvzK-5wkWD5OjPT7PmxqXbi/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
