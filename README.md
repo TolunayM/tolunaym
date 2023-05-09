@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java Spring**
 
-- 🌱 I’m currently learning **Node.js & Typescript**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 📫 How to reach me **tlnymtlu@gmail.com**
 
