@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tlnymtlu@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1O8BRev2c7IvzK-5wkWD5OjPT7PmxqXbi/view?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11B84N617SOZ0qXTZqHLISzvz447QWHGd/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
