@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolunaym&label=Profile%20views&color=0e75b6&style=flat" alt="tolunaym" /> </p>
 
-- 🔭 I’m currently working on **Java Spring**
+- 🔭 I’m currently working on **Java Spring Boot**
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **Microservices with Spring Boot**
 
 - 📫 How to reach me **tlnymtlu@gmail.com**
 
