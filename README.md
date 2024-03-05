@@ -8,9 +8,7 @@
 - 🌱 I’m currently learning **Microservices with Spring Boot**
 
 - 📫 How to reach me **tlnymtlu@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11B84N617SOZ0qXTZqHLISzvz447QWHGd/view)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codewars.com/users/TolunayM" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="tolunaymutlu" height="30" width="40" /></a>
