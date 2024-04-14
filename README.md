@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋</h1>
-<h3 align="center">I'm Tolunay and I'm a Software Engineer who develop himself as a Backend Engineer</h3>
+<h3 align="center">I'm Tolunay and I'm a Software Engineer who developed himself as a Backend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolunaym&label=Profile%20views&color=0e75b6&style=flat" alt="tolunaym" /> </p>
 
@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Microservices with Spring Boot**
 
 - 📫 How to reach me **tlnymtlu@gmail.com**
+
+- 🌐 **tolunai.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
